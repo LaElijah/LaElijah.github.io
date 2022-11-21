@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LaElijah.github.io/static/css/main.9e0dfd2c.css",
+    "main.js": "/LaElijah.github.io/static/js/main.643af720.js",
+    "index.html": "/LaElijah.github.io/index.html",
+    "main.9e0dfd2c.css.map": "/LaElijah.github.io/static/css/main.9e0dfd2c.css.map",
+    "main.643af720.js.map": "/LaElijah.github.io/static/js/main.643af720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0dfd2c.css",
+    "static/js/main.643af720.js"
+  ]
+}
