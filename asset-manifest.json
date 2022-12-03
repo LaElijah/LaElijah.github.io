@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e0dfd2c.css",
-    "main.js": "/static/js/main.643af720.js",
+    "main.css": "/static/css/main.928cffcc.css",
+    "main.js": "/static/js/main.91e21b15.js",
+    "static/media/ppneuemachina-inktrapregular-webfont.woff": "/static/media/ppneuemachina-inktrapregular-webfont.96fc2ec44adadd5d5c5f.woff",
     "index.html": "/index.html",
-    "main.9e0dfd2c.css.map": "/static/css/main.9e0dfd2c.css.map",
-    "main.643af720.js.map": "/static/js/main.643af720.js.map"
+    "main.928cffcc.css.map": "/static/css/main.928cffcc.css.map",
+    "main.91e21b15.js.map": "/static/js/main.91e21b15.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e0dfd2c.css",
-    "static/js/main.643af720.js"
+    "static/css/main.928cffcc.css",
+    "static/js/main.91e21b15.js"
   ]
 }
